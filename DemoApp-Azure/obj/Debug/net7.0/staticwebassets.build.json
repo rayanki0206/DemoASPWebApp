@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tsuwi5iBgZFlDx39pMsQmCTuehirY7hy6AX3qLxv4Zk=",
+  "Source": "DemoApp-Azure",
+  "BasePath": "_content/DemoApp-Azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
